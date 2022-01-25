@@ -1,0 +1,10 @@
+PawnTest.class
+MoveTest.class
+BoardTest.class
+RookTest.class
+QueenTest.class
+KingTest.class
+BishopTest.class
+TileTest.class
+PlayerTest.class
+KnightTest.class

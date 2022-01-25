@@ -1,0 +1,67 @@
+/Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'chess 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'chess 1.0-SNAPSHOT API'
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.model
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.view
+cz.cvut.fel.pjv.chess
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/src/main/java/.DS_Store = 1618042539188
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/src/main/java = 1621068604000
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/constant-values.html = 1621069292464
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/tag-search-index.js = 1621069292811
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/overview-tree.html = 1621069292702
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/module-search-index.js = 1621069292808
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/index.html = 1621069292712
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/package-search-index.js = 1621069292809
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/jquery-ui.overrides.css = 1621069292853
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/index-all.html = 1621069292814
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/allpackages-index.html = 1621069292824
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/deprecated-list.html = 1621069292707
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/member-search-index.js = 1621069292810
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/script.js = 1621069292835
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/stylesheet.css = 1621069292834
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/overview-summary.html = 1621069292826
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/help-doc.html = 1621069292830
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/element-list = 1621069292426
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/allclasses-index.html = 1621069292820
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/type-search-index.js = 1621069292809
+/Users/vitnademlejnsky/Desktop/PJV/nademvit/chess/target/site/apidocs/search.js = 1621069292837

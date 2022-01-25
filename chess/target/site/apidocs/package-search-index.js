@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cz.cvut.fel.pjv.chess"},{"l":"cz.cvut.fel.pjv.model"},{"l":"cz.cvut.fel.pjv.view"}];updateSearchResults();
