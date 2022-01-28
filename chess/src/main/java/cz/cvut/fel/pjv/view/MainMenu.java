@@ -63,11 +63,11 @@ public class MainMenu {
     
     private void setRulesButton(JLabel buttonPanel) {
         rulesButton = new JButton();
-        rulesButton.setText("Documentation (CZ)");
+        rulesButton.setText("Documentation");
         rulesButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                openWebpage("https://gitlab.fel.cvut.cz/B202_B0B36PJV/nademvit/-/wikis/home");
+                openWebpage("https://github.com/nadvitek/Chess-in-Java/wiki/Chess");
             }
         });
         rulesButton.setLocation(320, 320);
